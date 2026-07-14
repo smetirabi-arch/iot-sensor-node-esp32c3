@@ -1,0 +1,817 @@
+Info: Processing symbol 'BOOT1:SW_USLPT2819DT2TR'.
+Info: Processing symbol 'R33:TRIM_35WR100KLFTR'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R28:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D3:LED_THT:LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R17:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C19:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C14:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C24:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'F1:FUSC3225X100N'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R25:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D4:LED_THT:LED_D5.0mm-4_RGB'.
+Info: Processing symbol 'C20:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'J1:BELFUSE_SS-52400-002'.
+Info: Processing symbol 'C15:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C3:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'J2:JST_B2B-PH-SM4-TB'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C25:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'J3:AMPHENOL_GSD090012SEU'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J4:JST_B4B-XH-AM_(LF)(SN)'.
+Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C10:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C21:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C4:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C16:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R21:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D5:LED_THT:LED_D5.0mm-4_RGB'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J5:MOLEX_535170530'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'MK1:CUI_CMC-5042PF-AC'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C5:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'Q1:SOT95P240X120-3N'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C22:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C17:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Total warnings: 20, errors: 37.
+Info: Processing symbol 'R20:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R32:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C12:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C6:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'D2:LED_THT:LED_D5.0mm-3'.
+Info: Processing symbol 'D6:LED_THT:LED_D5.0mm-4_RGB_Staggered_Pins'.
+Info: Processing symbol 'Q2:SOT95P240X120-3N'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C18:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'Q3:TRANS_TEMT6000X01'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C23:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C13:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C7:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'REST1:SW_USLPT2819DT2TR'.
+Info: Processing symbol 'TP1:'.
+Info: Processing symbol 'TP2:'.
+Info: Processing symbol 'TP3:'.
+Info: Processing symbol 'TP4:'.
+Info: Processing symbol 'TP5:'.
+Info: Processing symbol 'U1:Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm'.
+Info: Processing symbol 'U2:WFQFN-20'.
+Info: Processing symbol 'U3:MODULE_ESP32-C3-WROOM-02-H4'.
+Info: Processing symbol 'U4:SOT95P280X145-6N'.
+Info: Processing symbol 'U5:SOIC127P790X216-8N'.
+Info: Processing symbol 'U6:PSON65P250X250X100-8N'.
+Info: Processing symbol 'U7:SOT65P210X110-5N'.
+Info: Processing symbol 'VR1:VREG_LM1117MPX-3.3'.
+Changed C2 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C2 symbol association from  to /12fcdc04-6719-40ea-85cd-531c45171cad.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net /VBUS.
+Connected C2 pin 1 to /VBUS.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C3.
+Changed C3 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C3 symbol association from  to /c52c2abb-b01d-4dce-b676-5a7bee4e2ea0.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated C3 footprint filters to 'CP_*'.
+Add net +3.3V.
+Connected C3 pin 1 to +3.3V.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Radial_D5.0mm_P2.00mm to C.
+Updated C4 symbol association from  to /41ba154f-8ea5-42b9-ae4b-1767a99861ed.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to +3.3V.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C5.
+Changed C5 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C5 symbol association from  to /872baa57-f992-4fe8-9b3c-84e2b09ca5db.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net +5C.
+Connected C5 pin 1 to +5C.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C6.
+Changed C6 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C6 symbol association from  to /7a773968-3c28-4823-bc03-fd3e03c77aed.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated C6 footprint filters to 'CP_*'.
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to +5C.
+Added C7 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C7.
+Changed C7 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C7 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/47cab9e0-348b-4366-996e-8fdfbb5ebf6d.
+Updated C7 fields.
+Updated C7 sheetname to '/ESP32_C3_02/'.
+Updated C7 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to +3.3V.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C8.
+Changed C8 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C8 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/ee11ce23-1800-47f7-8c24-fc36368acbbf.
+Updated C8 fields.
+Updated C8 sheetname to '/ESP32_C3_02/'.
+Updated C8 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C8 footprint filters to 'CP_*'.
+Connected C8 pin 1 to +3.3V.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C9.
+Changed C9 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C9 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/ccb9ed6a-6f21-4bea-8f61-265e00913583.
+Updated C9 fields.
+Updated C9 sheetname to '/ESP32_C3_02/'.
+Updated C9 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 1 to +3.3V.
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C10.
+Changed C10 value from CP_Radial_D5.0mm_P2.00mm to 4.7U.
+Updated C10 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/0d70b4a3-20d3-4070-81b8-ef7d9f6b4437.
+Updated C10 fields.
+Updated C10 sheetname to '/ESP32_C3_02/'.
+Updated C10 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C10 footprint filters to 'CP_*'.
+Connected C10 pin 2 to GND.
+Connected C10 pin 1 to +3.3V.
+Added C11 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C11.
+Changed C11 value from CP_Radial_D5.0mm_P2.00mm to 1u.
+Updated C11 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/e0e76053-cdb1-467a-bf80-207d27e1b579.
+Updated C11 fields.
+Updated C11 sheetname to '/ESP32_C3_02/'.
+Updated C11 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Add net Net-(U2-VBUS).
+Connected C11 pin 1 to Net-(U2-VBUS).
+Connected C11 pin 2 to GND.
+Added C12 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C12.
+Changed C12 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C12 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/1e5b88a5-2f7b-4664-9b1e-b245c6dcdeaf.
+Updated C12 fields.
+Updated C12 sheetname to '/ESP32_C3_02/'.
+Updated C12 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C12 footprint filters to 'CP_*'.
+Connected C12 pin 1 to +3.3V.
+Connected C12 pin 2 to GND.
+Added C13 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C13.
+Changed C13 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C13 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/18e04e61-97f7-4ea3-a9dc-2e20b4671d81.
+Updated C13 fields.
+Updated C13 sheetname to '/ESP32_C3_02/'.
+Updated C13 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Connected C13 pin 1 to +3.3V.
+Connected C13 pin 2 to GND.
+Added C14 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C14.
+Changed C14 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C14 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/c10bf7ee-b949-4f1b-b406-2baa780566a9.
+Updated C14 fields.
+Updated C14 sheetname to '/ESP32_C3_02/'.
+Updated C14 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 1 to +3.3V.
+Connected C14 pin 2 to GND.
+Added C15 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C15.
+Changed C15 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C15 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3d52205d-f5d9-4d0a-846b-ace8e10970b7/0e4f4baf-c73a-4294-998e-8eae90febcad.
+Updated C15 fields.
+Updated C15 sheetname to '/ESP32_C3_02/Uset interface/'.
+Updated C15 sheetfile to 'User_Interface.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 2 to GND.
+Add net /ESP32_C3_02/BOOT.
+Connected C15 pin 1 to /ESP32_C3_02/BOOT.
+Added C16 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C16.
+Changed C16 value from CP_Radial_D5.0mm_P2.00mm to 1u.
+Updated C16 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3d52205d-f5d9-4d0a-846b-ace8e10970b7/e1a72b9e-b4e8-4892-aee4-66085a3f797b.
+Updated C16 fields.
+Updated C16 sheetname to '/ESP32_C3_02/Uset interface/'.
+Updated C16 sheetfile to 'User_Interface.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Add net /ESP32_C3_02/EN.
+Connected C16 pin 1 to /ESP32_C3_02/EN.
+Connected C16 pin 2 to GND.
+Added C17 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C17.
+Changed C17 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C17 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/46ae604d-1537-4f7d-9516-d3bdf5241974.
+Updated C17 fields.
+Updated C17 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C17 sheetfile to 'Sensors.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 2 to GND.
+Connected C17 pin 1 to +3.3V.
+Added C18 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C18.
+Changed C18 value from CP_Radial_D5.0mm_P2.00mm to 10n.
+Updated C18 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/c75d21c3-de3d-4352-974c-033395477750.
+Updated C18 fields.
+Updated C18 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C18 sheetfile to 'Sensors.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Add net /ESP32_C3_02/PHOTO_C.
+Connected C18 pin 1 to /ESP32_C3_02/PHOTO_C.
+Connected C18 pin 2 to GND.
+Added C19 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C19.
+Changed C19 value from CP_Radial_D5.0mm_P2.00mm to 10n.
+Updated C19 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/76493a08-5bed-417a-83e1-e3df09abac04.
+Updated C19 fields.
+Updated C19 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C19 sheetfile to 'Sensors.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Connected C19 pin 1 to /ESP32_C3_02/PHOTO_C.
+Connected C19 pin 2 to GND.
+Added C20 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C20.
+Changed C20 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C20 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/38b34193-d9ba-409c-8052-340ae62ec7c3.
+Updated C20 fields.
+Updated C20 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C20 sheetfile to 'Sensors.kicad_sch'.
+Updated C20 footprint filters to 'C_*'.
+Connected C20 pin 2 to GND.
+Connected C20 pin 1 to +3.3V.
+Added C21 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C21.
+Changed C21 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C21 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/ebe8d36b-8f20-4667-83a4-c4ede9d445c5.
+Updated C21 fields.
+Updated C21 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C21 sheetfile to 'Sensors.kicad_sch'.
+Updated C21 footprint filters to 'C_*'.
+Add net Net-(C21-Pad2).
+Connected C21 pin 2 to Net-(C21-Pad2).
+Connected C21 pin 1 to GND.
+Added C22 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C22.
+Changed C22 value from CP_Radial_D5.0mm_P2.00mm to 10n.
+Updated C22 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/d75ca6a4-f3d2-489d-9567-5e2abe0100e1.
+Updated C22 fields.
+Updated C22 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C22 sheetfile to 'Sensors.kicad_sch'.
+Updated C22 footprint filters to 'C_*'.
+Add net Net-(U7-IN+).
+Connected C22 pin 1 to Net-(U7-IN+).
+Add net Net-(C22-Pad2).
+Connected C22 pin 2 to Net-(C22-Pad2).
+Added C23 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C23.
+Changed C23 value from CP_Radial_D5.0mm_P2.00mm to 0.1u.
+Updated C23 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/468a1591-e6d2-4eba-8251-09ebc7e6b2fb.
+Updated C23 fields.
+Updated C23 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C23 sheetfile to 'Sensors.kicad_sch'.
+Updated C23 footprint filters to 'C_*'.
+Connected C23 pin 1 to +3.3V.
+Connected C23 pin 2 to GND.
+Added C24 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C24.
+Changed C24 value from CP_Radial_D5.0mm_P2.00mm to 10u.
+Updated C24 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/31ebc944-019c-4a35-bd38-d8e4a1422ff6.
+Updated C24 fields.
+Updated C24 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C24 sheetfile to 'Sensors.kicad_sch'.
+Updated C24 footprint filters to 'C_*'.
+Connected C24 pin 2 to GND.
+Add net Net-(C24-Pad1).
+Connected C24 pin 1 to Net-(C24-Pad1).
+Added C25 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C25.
+Changed C25 value from CP_Radial_D5.0mm_P2.00mm to 100P.
+Updated C25 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/05357f05-7576-4da7-aa18-f2971c5e0170.
+Updated C25 fields.
+Updated C25 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated C25 sheetfile to 'Sensors.kicad_sch'.
+Updated C25 footprint filters to 'C_*'.
+Add net Net-(U7-IN-).
+Connected C25 pin 2 to Net-(U7-IN-).
+Add net /ESP32_C3_02/MIC_OUT.
+Connected C25 pin 1 to /ESP32_C3_02/MIC_OUT.
+Added D1 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm to Blue.
+Updated D1 symbol association from  to /0b86380c-078a-4af7-ba17-fe8650a2be9c.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'first_project_kicad.kicad_sch'.
+Added D2 (footprint 'LED_THT:LED_D5.0mm-3').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D5.0mm-3 to Green.
+Updated D2 symbol association from  to /b6ef073f-74f2-495b-bb6e-4007435037f6.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'first_project_kicad.kicad_sch'.
+Added D3 (footprint 'LED_THT:LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm to Red.
+Updated D3 symbol association from  to /c108925a-a606-4018-8887-7c248b47bd71.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'first_project_kicad.kicad_sch'.
+Added D4 (footprint 'LED_THT:LED_D5.0mm-4_RGB').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_D5.0mm-4_RGB to Red.
+Updated D4 symbol association from  to /3c8402ba-4fdb-4836-8492-aa6188cd1b5f.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'first_project_kicad.kicad_sch'.
+Added D5 (footprint 'LED_THT:LED_D5.0mm-4_RGB').
+Changed REF** reference designator to D5.
+Changed D5 value from LED_D5.0mm-4_RGB to Green.
+Updated D5 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/a8c635ae-3046-4a4c-80b5-fc5c25ff54b5.
+Updated D5 fields.
+Updated D5 sheetname to '/ESP32_C3_02/'.
+Updated D5 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Added D6 (footprint 'LED_THT:LED_D5.0mm-4_RGB_Staggered_Pins').
+Changed REF** reference designator to D6.
+Changed D6 value from LED_D5.0mm-4_RGB_Staggered_Pins to Red.
+Updated D6 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/790bdddf-7f70-4482-8978-e9b113f1c869.
+Updated D6 fields.
+Updated D6 sheetname to '/ESP32_C3_02/'.
+Updated D6 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 2k.
+Updated R1 symbol association from  to /1464fcd3-4f1f-49ab-a8da-378a9fd9303e.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to GND.
+Add net Net-(U1-PROG1).
+Connected R1 pin 2 to Net-(U1-PROG1).
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 5k.
+Updated R2 symbol association from  to /892ce161-ce02-4d30-91e6-f826502f169d.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to GND.
+Add net Net-(J1-CC1).
+Connected R2 pin 2 to Net-(J1-CC1).
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 20k.
+Updated R3 symbol association from  to /3c84e344-2613-4189-bd5b-805d9e757f54.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to GND.
+Add net Net-(U1-PROG3).
+Connected R3 pin 2 to Net-(U1-PROG3).
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 5k.
+Updated R4 symbol association from  to /d12f7831-1f9e-45a4-a7a0-86cba39d973d.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Add net Net-(J1-CC2).
+Connected R4 pin 2 to Net-(J1-CC2).
+Connected R4 pin 1 to GND.
+Added R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R5.
+Changed R5 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R5 symbol association from  to /4ad95536-667e-44c7-8c70-54e9affc2f00.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to GND.
+Add net Net-(U1-THERM).
+Connected R5 pin 2 to Net-(U1-THERM).
+Added R6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R6.
+Changed R6 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R6 symbol association from  to /9e8578f2-9133-44dd-be25-55d38458f007.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to GND.
+Add net Net-(U1-~{TE}).
+Connected R6 pin 2 to Net-(U1-~{TE}).
+Added R7 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R7.
+Changed R7 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 470.
+Updated R7 symbol association from  to /082c72ea-1580-4404-89f7-15d624974af3.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Add net Net-(D1-Pad-).
+Connected R7 pin 1 to Net-(D1-Pad-).
+Add net Net-(U1-STAT2).
+Connected R7 pin 2 to Net-(U1-STAT2).
+Added R8 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R8.
+Changed R8 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 470.
+Updated R8 symbol association from  to /ac6dbc1b-db37-488d-b329-a23be2c60ebd.
+Updated R8 sheetname to '/'.
+Updated R8 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Add net Net-(U1-STAT1/~{LBO}).
+Connected R8 pin 2 to Net-(U1-STAT1/~{LBO}).
+Add net Net-(D2-Pad-).
+Connected R8 pin 1 to Net-(D2-Pad-).
+Added R9 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R9.
+Changed R9 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 470.
+Updated R9 symbol association from  to /5c6604dc-16a3-44c8-8f28-1d9d45350845.
+Updated R9 sheetname to '/'.
+Updated R9 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Add net Net-(D3-Pad-).
+Connected R9 pin 1 to Net-(D3-Pad-).
+Add net Net-(U1-~{PG}).
+Connected R9 pin 2 to Net-(U1-~{PG}).
+Added R10 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R10.
+Changed R10 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 330.
+Updated R10 symbol association from  to /4bd99c10-c5eb-4bdd-84d6-3c3d0aa49cd6.
+Updated R10 fields.
+Updated R10 sheetname to '/'.
+Updated R10 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated R10 footprint filters to 'R_*'.
+Add net /PWR_LED.
+Connected R10 pin 2 to /PWR_LED.
+Connected R10 pin 1 to GND.
+Added R11 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R11.
+Changed R11 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 330.
+Updated R11 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/ce685648-0494-411b-bcc1-d701c4be28f8.
+Updated R11 sheetname to '/ESP32_C3_02/'.
+Updated R11 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Add net Net-(D5-Pad-).
+Connected R11 pin 2 to Net-(D5-Pad-).
+Add net Net-(U2-GPIO2/TXT).
+Connected R11 pin 1 to Net-(U2-GPIO2/TXT).
+Added R12 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R12.
+Changed R12 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 330.
+Updated R12 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/c226fbb3-bb5a-4427-95b5-5aaaa81952eb.
+Updated R12 sheetname to '/ESP32_C3_02/'.
+Updated R12 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Add net Net-(U2-GPIO3/RXT).
+Connected R12 pin 1 to Net-(U2-GPIO3/RXT).
+Add net Net-(D6-Pad-).
+Connected R12 pin 2 to Net-(D6-Pad-).
+Added R13 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R13.
+Changed R13 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R13 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3f304342-7402-498f-a5c3-e87cbffe964c.
+Updated R13 sheetname to '/ESP32_C3_02/'.
+Updated R13 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Add net Net-(U3-IO7).
+Connected R13 pin 1 to Net-(U3-IO7).
+Add net /ESP32_C3_02/MOSI_DI.
+Connected R13 pin 2 to /ESP32_C3_02/MOSI_DI.
+Added R14 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R14.
+Changed R14 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1K.
+Updated R14 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/a4105c01-be46-432e-9d2a-ce6e0256e92a.
+Updated R14 sheetname to '/ESP32_C3_02/'.
+Updated R14 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R14 footprint filters to 'R_*'.
+Add net Net-(U2-RSTB).
+Connected R14 pin 2 to Net-(U2-RSTB).
+Connected R14 pin 1 to +3.3V.
+Added R15 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R15.
+Changed R15 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R15 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/b1b5ea53-c84a-45ba-9438-cc8c916b88c3.
+Updated R15 sheetname to '/ESP32_C3_02/'.
+Updated R15 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R15 footprint filters to 'R_*'.
+Add net /ESP32_C3_02/SCLK.
+Connected R15 pin 1 to /ESP32_C3_02/SCLK.
+Add net Net-(U3-IO6).
+Connected R15 pin 2 to Net-(U3-IO6).
+Added R16 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R16.
+Changed R16 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 47K5.
+Updated R16 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/cc4d0476-e6af-41e2-ac8a-328f911dcc82.
+Updated R16 sheetname to '/ESP32_C3_02/'.
+Updated R16 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R16 footprint filters to 'R_*'.
+Connected R16 pin 1 to GND.
+Connected R16 pin 2 to Net-(U2-VBUS).
+Added R17 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R17.
+Changed R17 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 22K1.
+Updated R17 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/8295cf19-7d7c-4522-8a6a-05e3bac2bd50.
+Updated R17 sheetname to '/ESP32_C3_02/'.
+Updated R17 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R17 footprint filters to 'R_*'.
+Connected R17 pin 2 to /VBUS.
+Connected R17 pin 1 to Net-(U2-VBUS).
+Added R18 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R18.
+Changed R18 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R18 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/ed11e260-fb07-4c57-82fd-97329cb44c2c.
+Updated R18 sheetname to '/ESP32_C3_02/'.
+Updated R18 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R18 footprint filters to 'R_*'.
+Add net /ESP32_C3_02/MISO_DO.
+Connected R18 pin 2 to /ESP32_C3_02/MISO_DO.
+Add net Net-(J3-DAT0).
+Connected R18 pin 1 to Net-(J3-DAT0).
+Added R19 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R19.
+Changed R19 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R19 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/fa8f3f48-8dcd-4743-a1be-9db2f47cc133.
+Updated R19 sheetname to '/ESP32_C3_02/'.
+Updated R19 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R19 footprint filters to 'R_*'.
+Connected R19 pin 2 to +3.3V.
+Add net /ESP32_C3_02/CS_SD.
+Connected R19 pin 1 to /ESP32_C3_02/CS_SD.
+Added R20 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R20.
+Changed R20 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R20 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/d042e7cb-86bc-4490-938a-48d860be8cff.
+Updated R20 sheetname to '/ESP32_C3_02/'.
+Updated R20 sheetfile to 'ESP32_C3_02.kicad_sch'.
+Updated R20 footprint filters to 'R_*'.
+Add net Net-(U5-DO(IO1)).
+Connected R20 pin 2 to Net-(U5-DO(IO1)).
+Added R21 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R21.
+Changed R21 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R21 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3d52205d-f5d9-4d0a-846b-ace8e10970b7/14cf534a-a218-4370-883c-88da256e9963.
+Updated R21 sheetname to '/ESP32_C3_02/Uset interface/'.
+Updated R21 sheetfile to 'User_Interface.kicad_sch'.
+Updated R21 footprint filters to 'R_*'.
+Connected R21 pin 2 to +3.3V.
+Connected R21 pin 1 to /ESP32_C3_02/EN.
+Added R22 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R22.
+Changed R22 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R22 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3d52205d-f5d9-4d0a-846b-ace8e10970b7/9cbcaeea-695b-42b5-9801-7a6cc34f01b3.
+Updated R22 sheetname to '/ESP32_C3_02/Uset interface/'.
+Updated R22 sheetfile to 'User_Interface.kicad_sch'.
+Updated R22 footprint filters to 'R_*'.
+Add net Net-(Q1-Pad1).
+Connected R22 pin 2 to Net-(Q1-Pad1).
+Add net /ESP32_C3_02/DTR.
+Connected R22 pin 1 to /ESP32_C3_02/DTR.
+Added R23 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R23.
+Changed R23 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R23 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/3d52205d-f5d9-4d0a-846b-ace8e10970b7/42d39535-142e-4bea-8607-5b6ccf39082b.
+Updated R23 sheetname to '/ESP32_C3_02/Uset interface/'.
+Updated R23 sheetfile to 'User_Interface.kicad_sch'.
+Updated R23 footprint filters to 'R_*'.
+Add net Net-(Q2-Pad1).
+Connected R23 pin 2 to Net-(Q2-Pad1).
+Add net /ESP32_C3_02/RTS.
+Connected R23 pin 1 to /ESP32_C3_02/RTS.
+Added R24 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R24.
+Changed R24 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 4K7.
+Updated R24 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/29058879-3a1e-4e6b-8ef5-9c4b19dd141f.
+Updated R24 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R24 sheetfile to 'Sensors.kicad_sch'.
+Updated R24 footprint filters to 'R_*'.
+Add net /ESP32_C3_02/SCL.
+Connected R24 pin 2 to /ESP32_C3_02/SCL.
+Connected R24 pin 1 to +3.3V.
+Added R25 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R25.
+Changed R25 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 4K7.
+Updated R25 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/c1c1bb9f-5976-437a-8384-048d4ee775a0.
+Updated R25 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R25 sheetfile to 'Sensors.kicad_sch'.
+Updated R25 footprint filters to 'R_*'.
+Add net /ESP32_C3_02/SDA.
+Connected R25 pin 2 to /ESP32_C3_02/SDA.
+Connected R25 pin 1 to +3.3V.
+Added R26 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R26.
+Changed R26 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R26 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/0ef7257c-e688-424c-820d-eb055308421e.
+Updated R26 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R26 sheetfile to 'Sensors.kicad_sch'.
+Updated R26 footprint filters to 'R_*'.
+Connected R26 pin 1 to GND.
+Connected R26 pin 2 to /ESP32_C3_02/PHOTO_C.
+Added R27 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R27.
+Changed R27 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 2K.
+Updated R27 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/695981aa-7218-46f1-8d2e-6b0cbb2a7a03.
+Updated R27 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R27 sheetfile to 'Sensors.kicad_sch'.
+Updated R27 footprint filters to 'R_*'.
+Connected R27 pin 1 to Net-(C21-Pad2).
+Connected R27 pin 2 to +3.3V.
+Added R28 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R28.
+Changed R28 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1M.
+Updated R28 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/feab5b12-2674-4798-a1f2-448ae523c7f8.
+Updated R28 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R28 sheetfile to 'Sensors.kicad_sch'.
+Updated R28 footprint filters to 'R_*'.
+Connected R28 pin 1 to Net-(U7-IN+).
+Connected R28 pin 2 to +3.3V.
+Added R29 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R29.
+Changed R29 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 2K.
+Updated R29 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/d40f5622-17d0-4c34-92ac-49b721d58781.
+Updated R29 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R29 sheetfile to 'Sensors.kicad_sch'.
+Updated R29 footprint filters to 'R_*'.
+Connected R29 pin 1 to Net-(C22-Pad2).
+Connected R29 pin 2 to Net-(C21-Pad2).
+Added R30 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R30.
+Changed R30 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1K.
+Connected R20 pin 1 to /ESP32_C3_02/MISO_DO.
+Updated R30 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R30 sheetfile to 'Sensors.kicad_sch'.
+Updated R30 footprint filters to 'R_*'.
+Connected R30 pin 2 to Net-(U7-IN-).
+Connected R30 pin 1 to Net-(C24-Pad1).
+Added R31 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R31.
+Changed R31 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1M.
+Updated R31 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/83718952-eb35-49d3-b7a0-0b6ab1c33eca.
+Updated R31 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R31 sheetfile to 'Sensors.kicad_sch'.
+Updated R31 footprint filters to 'R_*'.
+Connected R31 pin 1 to GND.
+Connected R31 pin 2 to Net-(U7-IN+).
+Added R32 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R32.
+Changed R32 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 22K.
+Updated R32 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/0e6051f5-2edd-4398-945e-8a3e9f486237.
+Updated R32 sheetname to '/ESP32_C3_02/Sensors/'.
+Updated R32 sheetfile to 'Sensors.kicad_sch'.
+Updated R32 footprint filters to 'R_*'.
+Add net Net-(R32-Pad1).
+Connected R32 pin 1 to Net-(R32-Pad1).
+Connected R32 pin 2 to Net-(U7-IN-).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D5.0mm_P2.00mm to 1u.
+Updated C1 symbol association from  to /26f50306-6fa6-4d85-ae89-c779414e3449.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'first_project_kicad.kicad_sch'.
+Added U1 (footprint 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm to MCP73871.
+Updated U1 symbol association from  to /a89bd2bb-b695-467b-91d8-0b2301321412.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'first_project_kicad.kicad_sch'.
+Updated U1 footprint filters to 'QFN*4x4mm*P0.5mm*'.
+Connected U1 pin 21 to GND.
+Add net /VBAT.
+Connected U1 pin 16 to /VBAT.
+Connected U1 pin 15 to /VBAT.
+Add net /+5V_USB.
+Connected U1 pin 17 to /+5V_USB.
+Connected U1 pin 3 to GND.
+Connected U1 pin 5 to Net-(U1-THERM).
+Connected U1 pin 2 to /+5V.
+Connected U1 pin 9 to Net-(U1-~{TE}).
+Connected U1 pin 6 to Net-(U1-~{PG}).
+Connected U1 pin 20 to /+5V.
+Connected U1 pin 1 to /+5V.
+Connected U1 pin 13 to Net-(U1-PROG1).
+Connected U1 pin 14 to /VBAT.
+Connected U1 pin 19 to /+5V.
+Connected U1 pin 11 to GND.
+Connected U1 pin 4 to /+5V_USB.
+Connected U1 pin 12 to Net-(U1-PROG3).
+Connected U1 pin 8 to Net-(U1-STAT1/~{LBO}).
+Connected U1 pin 10 to GND.
+Connected U1 pin 7 to Net-(U1-STAT2).
+Connected U1 pin 18 to /+5V.
+Updated C1 footprint filters to 'C_*'.
+Add net /+5V.
+Connected C1 pin 2 to /+5V.
+Add net GND.
+Connected C1 pin 1 to GND.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C2.
+
+
+Updated R30 symbol association from  to /b61657ca-d8df-40fb-8d21-5ac28ca9eb11/4a303871-69e2-4de8-8ccd-345c33fc635f/700d7c96-445c-4a0c-bb83-08cd1041d00d.
+Warning: No net found for component D5 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D4 pad 4 (no pin 4 in symbol).
+Warning: No net found for component D4 pad 2 (no pin 2 in symbol).
+Warning: No net found for component D5 pad 4 (no pin 4 in symbol).
+Warning: No net found for component D3 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D6 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D4 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D6 pad 4 (no pin 4 in symbol).
+Warning: No net found for component D2 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D6 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D5 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D4 pad 1 (no pin 1 in symbol).
+Warning: No net found for component D3 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D5 pad 2 (no pin 2 in symbol).
+Warning: No net found for component D3 pad 2 (no pin 2 in symbol).
+Warning: No net found for component D6 pad 2 (no pin 2 in symbol).
+Warning: No net found for component D1 pad 2 (no pin 2 in symbol).
+Warning: No net found for component D2 pad 2 (no pin 2 in symbol).
+Error: Cannot add J2 (footprint 'JST_B2B-PH-SM4-TB' not found).
+Error: Cannot add J5 (footprint 'MOLEX_535170530' not found).
+Error: Cannot add BOOT1 (footprint 'SW_USLPT2819DT2TR' not found).
+Error: Cannot add R33 (footprint 'TRIM_35WR100KLFTR' not found).
+Error: Cannot add REST1 (footprint 'SW_USLPT2819DT2TR' not found).
+Error: Cannot add TP1 (no footprint assigned).
+Error: Cannot add MK1 (footprint 'CUI_CMC-5042PF-AC' not found).
+Error: Cannot add TP2 (no footprint assigned).
+Error: Cannot add J3 (footprint 'AMPHENOL_GSD090012SEU' not found).
+Error: Cannot add U2 (footprint 'WFQFN-20' not found).
+Error: Cannot add TP3 (no footprint assigned).
+Error: Cannot add U3 (footprint 'MODULE_ESP32-C3-WROOM-02-H4' not found).
+Error: Cannot add J1 (footprint 'BELFUSE_SS-52400-002' not found).
+Error: Cannot add U4 (footprint 'SOT95P280X145-6N' not found).
+Error: Cannot add TP4 (no footprint assigned).
+Error: Cannot add U5 (footprint 'SOIC127P790X216-8N' not found).
+Error: Cannot add J4 (footprint 'JST_B4B-XH-AM_(LF)(SN)' not found).
+Error: Cannot add U6 (footprint 'PSON65P250X250X100-8N' not found).
+Error: Cannot add TP5 (no footprint assigned).
+Error: Cannot add U7 (footprint 'SOT65P210X110-5N' not found).
+Error: Cannot add F1 (footprint 'FUSC3225X100N' not found).
+Error: Cannot add VR1 (footprint 'VREG_LM1117MPX-3.3' not found).
+Error: Cannot add Q1 (footprint 'SOT95P240X120-3N' not found).
+Error: D1 pad - not found in LED_THT:LED_D5.0mm.
+Error: D2 pad + not found in LED_THT:LED_D5.0mm-3.
+Error: D2 pad - not found in LED_THT:LED_D5.0mm-3.
+Error: D3 pad + not found in LED_THT:LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm.
+Error: D3 pad - not found in LED_THT:LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm.
+Error: D4 pad + not found in LED_THT:LED_D5.0mm-4_RGB.
+Error: D1 pad + not found in LED_THT:LED_D5.0mm.
+Error: D5 pad + not found in LED_THT:LED_D5.0mm-4_RGB.
+Error: D5 pad - not found in LED_THT:LED_D5.0mm-4_RGB.
+Error: D6 pad + not found in LED_THT:LED_D5.0mm-4_RGB_Staggered_Pins.
+Error: D6 pad - not found in LED_THT:LED_D5.0mm-4_RGB_Staggered_Pins.
+Error: Cannot add Q2 (footprint 'SOT95P240X120-3N' not found).
+Error: Cannot add Q3 (footprint 'TRANS_TEMT6000X01' not found).
+Error: D4 pad - not found in LED_THT:LED_D5.0mm-4_RGB.
+
+
+Info: Total warnings: 20, errors: 37.

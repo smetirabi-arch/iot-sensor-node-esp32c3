@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_Library")(type "KiCad")(uri "${KIPRJMOD}/first_project_kicad-backups/My_Library.pretty")(options "")(descr ""))
+  (lib (name "my_library2")(type "KiCad")(uri "${KIPRJMOD}/first_project_kicad-backups/my_library2.pretty")(options "")(descr ""))
+  (lib (name "my_library3")(type "KiCad")(uri "${KIPRJMOD}/first_project_kicad-backups/my_library3.pretty")(options "")(descr ""))
+)

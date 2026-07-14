@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SS-52400-002")(type "Legacy")(uri "C:/Users/smeti/OneDrive/Desktop/ss-52400/SS-52400-002.lib")(options "")(descr ""))
+  (lib (name "LM1117MPX-3.3")(type "Legacy")(uri "C:/Users/smeti/OneDrive/Desktop/lm1117-mxp3.3/LM1117MPX-3.3.lib")(options "")(descr ""))
+  (lib (name "B2B-PH-SM4-TB")(type "Legacy")(uri "C:/Users/smeti/OneDrive/Desktop/disconecter jst b2bphsm4tb/B2B-PH-SM4-TB.lib")(options "")(descr ""))
+)
